@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-climate-feeds",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Climate & Energy Feeds MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "climate-feeds",
     "gatewaySlug": "climate-feeds",
-    "sourceHash": "v1-28956fe555b6de3adf81411495794095bb901c86f641162ff20e60acc343cd8a",
-    "sourceCommit": "4277282d72f9bf55e548b3799aaf737baf22152f"
+    "sourceHash": "v1-27de9a8c962dd5d8ce470ee5d75492ad92d6aa0055e8d2e0287e89e213af53d0",
+    "sourceCommit": "8cc978183948532674e797c429305c9d8ab2a1c3"
   }
 }
